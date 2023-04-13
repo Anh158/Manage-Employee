@@ -1,0 +1,135 @@
+[
+    {
+        "id": "NV01",
+        "Name": "Nguyen Thi Cam Anh",
+        "title": "nhan vien",
+        "Department": "Q001",
+        "Base salary": 400000,
+        "Working days": 24,
+        "Working performance": 1.0,
+        "Late working days": 0,
+        "Bonus": 700000.0,
+        "tilte": "nhan vien"
+    },
+    {
+        "id": "NV02",
+        "Name": "Nguyen Thanh Nam",
+        "title": "nhan vien",
+        "Department": "TE001",
+        "Base salary": 500000.0,
+        "Working days": 26.0,
+        "Working performance": 0.98,
+        "Late working days": 2.0,
+        "Bonus": 1000000.0
+    },
+    {
+        "id": "NV03",
+        "Name": "Nguyen Van Sang",
+        "title": "nhan vien",
+        "Department": "DE001",
+        "Base salary": 350000.0,
+        "Working days": 24.0,
+        "Working performance": 1.05,
+        "Late working days": 1.0,
+        "Bonus": 1000000.0
+    },
+    {
+        "id": "NV04",
+        "Name": "Nguyen The Anh",
+        "title": "nhan vien",
+        "Department": "Q001",
+        "Base salary": 400000,
+        "Working days": 24,
+        "Working performance": 1,
+        "Late working days": 0,
+        "Bonus": 400000
+    },
+    {
+        "id": "NV05",
+        "Name": "Phan An Yen",
+        "title": "nhan vien",
+        "Department": "DE002",
+        "Base salary": 350000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 6.0,
+        "Bonus": 300000.0
+    },
+    {
+        "id": "NV06",
+        "Name": "Bui Hien",
+        "title": "nhan vien",
+        "Department": "HR001",
+        "Base salary": 350000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 4.0,
+        "Bonus": 500000.0
+    },
+    {
+        "id": "NV08",
+        "Name": "Tran Nguyen Thao",
+        "title": "nhan vien",
+        "Department": "HR001",
+        "Base salary": 400000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 2.0,
+        "Bonus": 200000.0
+    },
+    {
+        "id": "NV10",
+        "Name": "Ho An Tuan",
+        "title": "Quan ly",
+        "Department": "Q002",
+        "Base salary": 1000000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 1.0,
+        "Bonus": 1000000.0
+    },
+    {
+        "id": "NV09",
+        "Name": "Cao Thanh Minh",
+        "title": "nhan vien",
+        "Department": "TE001",
+        "Base salary": 500000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 2.0,
+        "Bonus": 1000000.0
+    },
+    {
+        "id": "NV11",
+        "Name": "Bui Minh Anh",
+        "title": "Quan ly",
+        "Department": "GA001",
+        "Base salary": 400000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 2.0,
+        "Bonus": 1000000.0
+    },
+    {
+        "id": "NV12",
+        "Name": "Nguyen Ha Huy",
+        "title": "Quan ly",
+        "Department": "DE002",
+        "Base salary": 1000000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 2.0,
+        "Bonus": 1000000.0
+    },
+    {
+        "id": "NV13",
+        "Name": "Le Nam Thu",
+        "title": "nhan vien",
+        "Department": "GA001",
+        "Base salary": 500000.0,
+        "Working days": 24.0,
+        "Working performance": 1.0,
+        "Late working days": 0.0,
+        "Bonus": 300000.0
+    }
+]
